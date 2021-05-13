@@ -1,0 +1,2 @@
+# Tummen
+vbmeta disabled
